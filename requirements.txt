@@ -2,3 +2,4 @@ clarifai-grpc
 streamlit==1.23.1
 langchain==0.0.270
 streamlit-chat
+sentence-transformers
